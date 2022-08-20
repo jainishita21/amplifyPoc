@@ -1,6 +1,6 @@
 {
   "api": {
-    "indiaregionapp": {
+    "myapp": {
       "service": "AppSync",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],

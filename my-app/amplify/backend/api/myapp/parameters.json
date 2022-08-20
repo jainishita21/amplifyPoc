@@ -1,5 +1,5 @@
 {
-  "AppSyncApiName": "indiaregionapp",
+  "AppSyncApiName": "myapp",
   "DynamoDBBillingMode": "PAY_PER_REQUEST",
   "DynamoDBEnableServerSideEncryption": false
 }
